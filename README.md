@@ -2,7 +2,7 @@
 
 
 **Research questions**  
-- which EU-countries and sectors contributed the most to recent GHG emissions reductions ?
+- Which EU-countries and sectors contributed the most to recent GHG emissions reductions ?
 - How did emissions reductions trends differ across sectors ?
 - Are reductions broad based or concentrated in a few countries ?
 
