@@ -26,6 +26,13 @@
   - Descriptive tables for each key indicator
   - Visuals illustrating sectoral and country levels trends
 
+**Key findings**
+- Between 2018 and 2023, reductions in GHG emissions across the energy, industry and transport sectors were primarily driven by Germany's energy sector, wich decreased by nearly 1 x 10⁸ tCO₂eq, smaller reductions were observed in Germany's Industry, as well as in the energy and industry sectors of Poland and Spain, the energy sectors of Italy, Greece and Czechia, and the industry sector of France
+- The energy sector shows the most consistent reductions averaging around 1.15 x 10⁷ tCO₂eq, followed by the industry sector decreasing nearly by 0.6 x 10⁷ tCO₂eq, in contrast, the transport sector displays a slight increase in emissions, with an average rise of about 0.05 x 10⁷ tCO₂eq
+- Reductions are largely concentrated in a few countries, with larger EU economies driving most of the decrease
+- 2023 Per-capita emissions show a broad dispersion indicating significant differences in emissions levels between countries
+
+
 **Tools and libraries**
 - Python
 - Pandas
