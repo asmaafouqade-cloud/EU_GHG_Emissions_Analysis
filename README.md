@@ -35,7 +35,7 @@
 
 
 **Policy insights**
-- Transport emissions remain close to initial levels over the study period and show only minor reductions compared to the energy and industry sectors. In contrast, the energy sector—fully covered by the EU ETS—records the largest emissions reductions, highlighting differences in emissions outcomes between sectors with limited versus extensive exposure to carbon pricing.
+- Transport emissions, sector not directly covered by the EU ETS, remain close to initial levels over the study period and show only minor reductions compared to the energy and industry sectors. In contrast, the energy sector—fully covered by the EU ETS—records the largest emissions reductions, highlighting differences in emissions outcomes between sectors with limited versus extensive exposure to carbon pricing.
 - EU-wide emissions reductions are driven disproportionately by a limited number of countries and sectors, raising questions about the distribution of mitigation efforts across Member States.
 - EU-wide averages conceal substantial differences in emissions levels and trends across Member States, indicating uneven progress toward decarbonisation.
 
